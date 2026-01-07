@@ -86,8 +86,8 @@ Optimization <br>
 • CUDA
 
 Database <br>
-• Qdrant (Vector Database)
-• PostgreSQL <br>
+• Qdrant (Vector Database) <br>
+• PostgreSQL 
 
 Deployment <br>
 • Docker
