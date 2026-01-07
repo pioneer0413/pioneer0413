@@ -108,7 +108,7 @@ Deployment <br>
 
 #### 🪪 자격증
 
-<placeholder>
+(placeholder)
 
 ---
 
